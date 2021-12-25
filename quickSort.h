@@ -1,7 +1,5 @@
 #include <iostream>
 
-using namespace std;
-
 template<class C>
 int partition(C arr[], int left, int right, int loc)
 {
